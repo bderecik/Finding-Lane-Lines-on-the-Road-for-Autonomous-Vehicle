@@ -8,7 +8,7 @@ In this project, computer vision tools (OpenCV functions) are used to identify l
 
 Example image from highway can be seen as following:
 
-[image1]: ./test_images/solidWhiteRight.jpg
+![image1](test_images/solidWhiteRight.jpg)
 
 ---
 
@@ -36,10 +36,10 @@ Parameters:
 - max_line_gap = 1    # maximum gap in pixels between connectable line segments
 Transformation can be seen as:
 
-[image2]: ./img/img/original.jpg
-[image3]: ./img/img/canny.jpg
-[image4]: ./img/img/gray.jpg
-[image5]: ./img/img/finaloutput.jpg
+![image2](img/original.jpg)
+![image3](img/canny.jpg)
+![image4](img/gray.jpg)
+![image5](img/finaloutput.jpg)
 
 ### 2. Identify potential shortcomings with your current pipeline
 
